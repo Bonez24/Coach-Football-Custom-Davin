@@ -1797,14 +1797,14 @@
                             "secondaryColor": "#807F84",
                             "zipcode": "89557",
                             "attributes": {
-                                "stadium": 3,
-                                "facilities": 6,
-                                "collegeLife": 5,
-                                "academics": 3,
-                                "marketing": 6,
-                                "prestige": 3,
+                                "stadium": 9,
+                                "facilities": 9,
+                                "collegeLife": 9,
+                                "academics": 9,
+                                "marketing": 9,
+                                "prestige": 9,
                                 "attendance": 17000,
-                                "fanbaseLevel": 6
+                                "fanbaseLevel": 1
                             },
                             "rivalAbbreviation": "UNLV"
                         },
